@@ -5,4 +5,4 @@ This adaptive test was designed as such that it could pinpoint the student’s w
 considered subjects or field. To create the test I took question sets from Elementary Fractions taught in the Mathematics course of grade 5 and 6 students. The model for the subject (in our case Elementary Fractions) was created manually (since we college students consider ourselves expert enough to create question on this field target grade 5 students).
 These types of modelsare referred as expert centric Bayesian model
 
-refer to adaptivetest.pdf for details about the innerworkings of the project.
+refer to docs/adaptivetest.pdf (https://github.com/sushil909/learningbayesian/blob/master/docs/adaptivetest.pdf) for details about the innerworkings of the project.
